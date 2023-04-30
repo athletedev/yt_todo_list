@@ -1,0 +1,12 @@
+{
+    "helloWorld": "Witaj świecie!",
+    "@helloWorld": {
+      "description": "powitanie po polsku"
+    },
+    "newText": "{count, plural, =1{Byłem pierwszy!} =2{Byłem drugi!} other{Przegrałem!}}",
+    "@newText": {
+        "placeholders": {
+            "count": {}
+        }
+      }
+}
